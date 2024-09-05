@@ -1,2 +1,4 @@
-# training-dio-repos
-This is a repository that I will use for training.
+# Desafio de Projeto DIO
+Repositório para entrega do desafio de projeto.
+
+
